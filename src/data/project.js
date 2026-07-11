@@ -69,8 +69,8 @@ export const project = {
   },
 
   contact: {
-    phone: '+852 91234567',
-    whatsApp: '91234567',
+    phone: '+852 95633245',
+    whatsApp: '95633245',
     whatsAppText: '你好，我對 Garden Regency 芊御 有興趣，想了解多啲資料。',
   },
 
