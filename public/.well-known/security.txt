@@ -1,0 +1,11 @@
+Contact: https://wa.me/85291234567
+Contact: mailto:contact@gardenregency.club
+Expires: 2027-12-31T23:59:59z
+Preferred-Languages: zh-HK, en
+Canonical: https://gardenregency.club/.well-known/security.txt
+Policy: https://gardenregency.club
+Hiring: https://gardenregency.club
+
+# Garden Regency 芊御 Team Site D
+# Fresh Botanical Style
+# 獨立資訊平台
