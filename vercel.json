@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://gardenregency.site/$1",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "gardenregency.club"
+        }
+      ]
+    }
+  ]
+}
